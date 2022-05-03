@@ -1,0 +1,4 @@
+hostName: production
+storageDirForDxf: ./uploads/files/dxf/
+storageDirGeoJSON: ./uploads/files/geojson/
+publicDir: ./public/
