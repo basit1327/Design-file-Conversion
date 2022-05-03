@@ -1,0 +1,4 @@
+hostName: localhost
+storageDirForDwg: ./uploads/files/dwg/
+storageDirForDxf: ./uploads/files/dxf/
+publicDir: ./public
