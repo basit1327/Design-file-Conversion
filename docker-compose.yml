@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  dwg-convert-service-new:
+    build: .
+    ports:
+      - "3005:${SERVER_PORT}"

@@ -1,0 +1,34 @@
+{
+  "name": "capptin-socket-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1004.0",
+    "body-parser": "^1.19.0",
+    "cli-color": "^1.4.0",
+    "colors": "^1.4.0",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.0",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.2",
+    "http-proxy": "^1.18.1",
+    "http-status-codes": "^2.1.4",
+    "https": "^1.0.0",
+    "joi": "^17.4.2",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.15",
+    "md5": "^2.2.1",
+    "request": "^2.88.0",
+    "routes": "^2.1.0",
+    "uniqid": "^5.4.0",
+    "util.promisify": "^1.1.1"
+  },
+  "devDependencies": {
+    "config": "^3.3.6",
+    "multer": "^1.4.3"
+  }
+}
